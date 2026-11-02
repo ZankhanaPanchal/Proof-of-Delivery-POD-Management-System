@@ -1,4 +1,4 @@
-# Delivery Management Demo
+# Proof of Delivery (POD) Management System
 
 A **standalone frontend portfolio project** using fictional delivery records. This is not copied from or connected to any real client's logistics system.
 
