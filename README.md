@@ -19,9 +19,16 @@ Open `index.html` in a web browser. No backend or credentials are required.
 ## Live demo
 After enabling GitHub Pages, add your live URL here.
 
-## Screenshots
-Add screenshots of the fictional dashboard and delivery form in a `screenshots/` folder.
+## 📸 Application Screenshots
 
+### 1. Proof of Delivery Form
+![POD Form](screenshots/PodDashboard.png)
+
+### 2. Successful POD Submission
+![Submission Confirmation](screenshots/SubmittedPodPage.png)
+
+### 3. Delivery Records
+![POD Records](screenshots/PodPreview.png)
 ## Limitations
 This demo does **not** implement GPS tracking, photo uploads, signatures, customer authentication, cloud storage, or an API. Its data is local to the browser and can be cleared.
 
